@@ -1,4 +1,4 @@
 # SC663401 Basic Programming for Data Science and Data Visualization
-> Thanaphorn Kanking 643021264-9
+> ธนพร ก้านกิ่ง 643021264-9
 -------------------------------------
 

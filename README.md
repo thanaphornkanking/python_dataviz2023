@@ -12,3 +12,6 @@ Python & Markdown
 - final 20% (เดี่ยว)
 
 Final score = score * Attendance
+
+ชื่อกลุ่ม : alonedหน่าาา
+
